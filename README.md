@@ -1,4 +1,4 @@
-# DeepLearningProject
+# Deep Learning Project
 
 Model :
  Linear Regression Model
