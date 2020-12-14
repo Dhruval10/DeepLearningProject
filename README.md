@@ -11,8 +11,6 @@ The following is the URL for the dataset https://www.kaggle.com/harlfoxem/houses
 5 ways AI is being used in real estate:
 All things considered, it's important to investigate the manners by which man-made brainpower and AI are affecting the real estate industry. In truth, practically every part of the real estate sector has been moved by AI arrangements in the course of recent years. To give you an away from the manners by which AI is affecting your commonplace real estate exchange, here are a couple of models.
 
-
-
 1.It's helping agents with lead generation:
 Most specialists realize they will undoubtedly get a lot of site visitors and potential leads. All things considered, now, it's a typical diversion to visit a site like Zillow and fantasize about possessing a multimillion-dollar property. In any case, rather than the specialist filtering through the entirety of their prompts to distinguish those with the most capability of turning into a real purchaser soon, profound learning permits computerized reasoning to have the option to qualify leads accordingly. 
 Different destinations utilize characteristic language processing (NLP) innovation to help strength specialists focus on their optimal customers. For instance, a specialist who has some expertise in the extravagance market can utilize this real estate innovation to prequalify their leads so they don't sit around finding potential purchasers who can't afford their postings.
