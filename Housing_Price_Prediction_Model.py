@@ -21,3 +21,12 @@ import statsmodels.api as sm
 #Validation
 from sklearn.metrics import mean_squared_error
 from sklearn.model_selection import cross_val_score
+
+
+import pandas as pd
+import numpy as np
+import seaborn as sns
+import matplotlib.pyplot as plt
+import seaborn as sns; sns.set()
+%matplotlib inline
+sns.set(style='whitegrid')
