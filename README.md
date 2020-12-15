@@ -1,4 +1,4 @@
-# Deep Learning Project
+# Artificial Intelligence Applications for Real Estate Industry
 
 Model :
  Linear Regression Model
