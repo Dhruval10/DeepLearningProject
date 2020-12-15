@@ -21,7 +21,7 @@ That is the place where the AI algorithm becomes possibly the most important fac
 
 3.It's streamlining transactions:
 Toward the back of the exchange, man-made consciousness can likewise make it simpler for the Realtor to maintain their real estate business. For example, numerous client relationships the executives (CRM) frameworks use AI for things like auto-usable information and producing programmed reports. 
-In addition to the fact that this cuts down on the measure of time a real estate specialist needs to spend before the PC doing office errands, yet by removing the human component from information passage, it decreases the quantity of errors by and large.
+In addition to the fact that this cuts down on the measure of time a real estate specialist needs to spend before the PC doing office errands, yet by removing the human component from information passage, it decreases the quantity of errors by and large.  
 
 4.It's making property valuation easier:
 Furthermore, one of the major highlights of AI that real estate specialists are coming to depend on is its capacity to "foresee" what's to come. In particular, this proves to be useful when attempting to survey property estimations and rental qualities. In this occurrence, an AI application's mechanized valuation model may accumulate information about openly available reports, transportation alternatives, territory crime percentage measurements, and school region appraisals to produce an investigation of a specific property's estimation. 
